@@ -1,0 +1,4 @@
+Макет посилання
+https://www.figma.com/design/pO4VtqLa87qwWafSGK5TV2/Web.Dev?node-id=0-1&t=nG0rJVSd6Q400Svy-0
+або в папці template
+
